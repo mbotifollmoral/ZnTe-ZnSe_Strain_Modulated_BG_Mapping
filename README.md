@@ -1,5 +1,6 @@
 # ZnTe-ZnSe_Strain_Modulated_BG_Mapping
-Data and code for the paper: Sub-nanometer mapping of strain-induced band structure variations in planar nanowire core-shell heterostructures 
+Data and code for the paper: Sub-nanometer mapping of strain-induced band structure variations in planar nanowire core-shell heterostructures
+
 Nature Communications, DOI: 10.1038/s41467-022-31778-3 (2022)
 
 This repository contains all the data (both raw and processed) used in the research paper: Sub-nanometer mapping of strain-induced band structure variations in planar nanowire core-shell heterostructures.
